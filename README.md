@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="assets/header_uiux.png" width="100%" alt="Header UI/UX" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Andi+Putra+Fathahillah;UI%2FUX+Designer;Frontend+Developer;Welcome+to+my+profile!" alt="Typing SVG" />
+  </a>
 </div>
-
-<h1 align="center">Hi there, I'm <a href="https://github.com/csyyy-lavieen">csyyy-lavieen</a> 👋</h1>
 
 <div align="center">
   <a href="https://github.com/csyyy-lavieen">
@@ -16,35 +16,36 @@
 <div align="center">
   <p align="center">
     <a href="https://github.com/csyyy-lavieen">
-      <img src="https://komarev.com/ghpvc/?username=csyyy-lavieen&label=Profile%20Views&color=007bff&style=for-the-badge" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=csyyy-lavieen&label=Profile%20Views&color=007bff&style=for-the-badge" alt="Profile Views">
     </a>
   </p>
 </div>
 
 <br/>
 
-## 🚀 About Me
+## About Me
 
-> *"Design is intelligence made visible."*
+> *"Design is intelligence made visible."* 
 
-I am a passionate **UI/UX Designer** and **Frontend Developer** who thrives at the intersection of aesthetics and functionality. I build immersive web experiences that not only look "mantap" but perform seamlessly.
+I am a passionate **UI/UX Designer** and **Frontend Developer** who focuses on creating visually engaging and highly usable digital experiences. I specialize in designing and building interfaces that balance aesthetics, performance, and accessibility to deliver products that truly serve users.
 
-*   🔭 I’m currently working on crafting beautiful user interfaces and robust web applications.
-*   🌱 I’m currently exploring advanced **React** patterns and **3D Web Interaction**.
-*   ⚡ Fun fact: I obsess over pixel perfection and smooth micro-interactions.
+🔭 Currently designing intuitive, user-centered interfaces and meaningful digital experiences.
+
+🌱 Exploring advanced UI/UX patterns, design systems, and interactive web experiences.
+
+⚡ Fun fact: I obsess over pixel-perfect layouts, smooth micro-interactions, and delightful user journeys.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
-### 🎨 Design
+### Design
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" alt="Adobe XD" />
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
 
-### 💻 Development
+### Development
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -57,7 +58,7 @@ I am a passionate **UI/UX Designer** and **Frontend Developer** who thrives at t
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <br/>
@@ -67,17 +68,17 @@ I am a passionate **UI/UX Designer** and **Frontend Developer** who thrives at t
 
 <br/>
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <div align="center">
   
-  <a href="https://instagram.com/csyyy_lavieen">
+  <a href="https://www.instagram.com/ptra.ftahllh/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/csyyy-lavieen/">
+  <a href="https://www.linkedin.com/in/andi-putra-fathahillah-0746903a1/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:contact@example.com">
+  <a href="mailto:andiputrafathahillah24@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
