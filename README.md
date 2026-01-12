@@ -58,12 +58,28 @@ I am a passionate **UI/UX Designer** and **Frontend Developer** who focuses on c
 
 <br/>
 
+</div>
+
+<br/>
+
+## Network
+
+I believe in the power of community and open source. My goals on GitHub:
+
+*   ⭐ **Star** interesting repositories to support creators.
+*   👥 **Follow** developers to stay updated and inspired.
+*   🤝 **Contribute** where possible to give back to the ecosystem.
+
+<br/>
+
 ## GitHub Stats
 
 <div align="center">
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=csyyy-lavieen&show_icons=true&theme=default&title_color=007bff&icon_color=007bff&text_color=444&bg_color=ffffff&hide_border=true" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csyyy-lavieen&layout=compact&title_color=007bff&icon_color=007bff&text_color=444&bg_color=ffffff&hide_border=true" height="180" alt="languages graph" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=csyyy-lavieen&theme=default&ring=007bff&fire=007bff&currStreakLabel=007bff&currStreakNum=444&sideNums=444&sideLabels=444&background=ffffff&hide_border=true" alt="streak graph" />
 </div>
 
 <br/>
