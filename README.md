@@ -69,15 +69,15 @@ I am a passionate **UI/UX Designer** and **Frontend Developer** who focuses on c
 
 <div align="center">
   <br/>
-  <a href="https://github.com/csyyy-lavieen">
-    <img src="https://github-readme-stats.vercel.app/api?username=csyyy-lavieen&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
+  <a href="https://github.com/Putrafthahllh">
+    <img src="https://github-readme-stats.vercel.app/api?username=Putrafthahllh&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
   </a>
-  <a href="https://github.com/csyyy-lavieen">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csyyy-lavieen&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+  <a href="https://github.com/Putrafthahllh">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Putrafthahllh&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
   </a>
   <br/>
-  <a href="https://github.com/csyyy-lavieen">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=csyyy-lavieen&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <a href="https://github.com/Putrafthahllh">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Putrafthahllh&theme=tokyonight&hide_border=true" alt="streak graph" />
   </a>
 </div>
 
