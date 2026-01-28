@@ -103,11 +103,7 @@ const aboutMe = {
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
       <br><strong>Tailwind</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br><strong>Git</strong>
-    </td>
+    </td> 
   </tr>
 </table>
 
@@ -154,6 +150,16 @@ const aboutMe = {
     <img src="https://img.shields.io/badge/Portfolio-007bff?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Portfolio" />
   </a>
 
+</div>
+
+<br/>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 <br/>
